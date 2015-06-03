@@ -3,7 +3,7 @@ Crud de angularjs usando bootstrap y firebase y las ultimas actualizaciones de f
 
 instalacion
 
-git clone
+git clone https://github.com/elnaufrago2009/crud-angularjs-bootstrap-firebase.git
 
 npm install
 
